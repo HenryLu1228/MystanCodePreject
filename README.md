@@ -9,17 +9,7 @@ This respository holds my programming projects done during the period of stanCod
 [Weather Master](https://github.com/HenryLu1228/MystanCodePreject/blob/main/Assignment2/weather_master.py)
 - python semantics & syntax
 
-MyPhotoshop
+[MyPhotoshop](https://github.com/HenryLu1228/MystanCodePreject/blob/main/SC001_lecture10/photoshop.py)
 - image processing
-
-Pedestrian Removing Application
-- image processing
-
-Breakout Game
-- animation & game designing
-
-Name Popularity Searching System
-- data structure
-
-Boggle Game Solver
-- recursive functions
+[titanic](https://github.com/HenryLu1228/MystanCodePreject/blob/main/SC001_lecture11-20260423T122004Z-3-001/SC001_lecture11/titanic.py)
+- Data compilation & statistical charts
