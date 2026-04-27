@@ -11,5 +11,6 @@ This respository holds my programming projects done during the period of stanCod
 
 [MyPhotoshop](https://github.com/HenryLu1228/MystanCodePreject/blob/main/SC001_lecture10/photoshop.py)
 - image processing
+
 [titanic](https://github.com/HenryLu1228/MystanCodePreject/blob/main/SC001_lecture11-20260423T122004Z-3-001/SC001_lecture11/titanic.py)
 - Data compilation & statistical charts
