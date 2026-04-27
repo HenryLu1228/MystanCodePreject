@@ -1,5 +1,5 @@
 # stanCodePreject
-Hello there!
+Hello there! \
 This respository holds my programming projects done during the period of stanCode SC001 course.\
 [Hangman Game](https://github.com/HenryLu1228/MystanCodePreject/blob/main/Assignment3/hangman.py)\
   python semantics & syntax\
